@@ -45,4 +45,4 @@ func _on_cmbUsuarios_item_selected(index):
 
 
 func _on_btnRegresar_pressed():
-	get_tree().change_scene("res://Escena/Control.tscn")
+	get_tree().change_scene("res://Escena/MenuInicial.tscn")
