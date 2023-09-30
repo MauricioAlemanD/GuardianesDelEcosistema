@@ -27,13 +27,11 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 
 [node name="Label" type="Label" parent="VBoxContainer2"]
-margin_right = 864.0
-margin_bottom = 219.0
+margin_right = 997.0
+margin_bottom = 71.0
 custom_colors/font_color = Color( 1, 0.705882, 0, 1 )
 custom_fonts/font = SubResource( 1 )
-text = "	GUARDIANES
-	DEL 
-	ECOSISTEMA"
+text = "Estamos probando sorry :v"
 align = 1
 
 [node name="Button" type="Button" parent="."]
