@@ -1,9 +1,0 @@
-[gd_scene format=2]
-
-[node name="Node2D" type="Node2D"]
-
-[node name="Button" type="Button" parent="."]
-margin_left = 153.0
-margin_top = 19.0
-margin_right = 311.0
-margin_bottom = 512.0
