@@ -36,6 +36,12 @@ text = "	GUARDIANES
 	ECOSISTEMA"
 align = 1
 
+[node name="Button" type="Button" parent="."]
+margin_left = 205.0
+margin_top = 219.0
+margin_right = 842.0
+margin_bottom = 513.0
+
 [node name="vbxBotones" type="VBoxContainer" parent="."]
 anchor_left = 0.5
 anchor_top = 1.0
