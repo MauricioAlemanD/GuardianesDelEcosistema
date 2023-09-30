@@ -35,10 +35,10 @@ text = "Estamos probando sorry :v"
 align = 1
 
 [node name="Button" type="Button" parent="."]
-margin_left = 760.0
-margin_top = 501.0
-margin_right = 1111.0
-margin_bottom = 795.0
+margin_left = 340.0
+margin_top = 495.0
+margin_right = 691.0
+margin_bottom = 789.0
 
 [node name="vbxBotones" type="VBoxContainer" parent="."]
 anchor_left = 0.5
